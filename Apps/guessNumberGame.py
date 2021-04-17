@@ -7,7 +7,7 @@ Created on Sat Mar 20 03:44:38 2021
 
 import random
 
-random_number= random.randint(0, 20)
+random_number = random.randint(0, 20)
 guess_number = input("Enter your guess number: ")
 guess_number = int(guess_number)
 

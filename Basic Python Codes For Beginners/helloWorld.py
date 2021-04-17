@@ -7,8 +7,8 @@ Created on Fri Mar 12 21:44:38 2021
 
 print("Hello World")
 
-population= "house"
+population = "house"
 print(population)
 
-population=6
+population = 6
 print(population)

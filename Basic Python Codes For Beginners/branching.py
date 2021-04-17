@@ -8,12 +8,12 @@ Created on Sat Mar 13 22:57:49 2021
 print("The program starts here")
 
 
-value=input("Enter a number:")
-value=int(value)
+value = input("Enter a number:")
+value = int(value)
 
-if(value>10):
+if(value > 10):
     print("THE NUMBER IS GREATER THAN 10")
 else:
     print("THE NUMBER IS NOT GREATER THAN 10")
-    
+
 print("The program ends here")
